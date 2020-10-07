@@ -1,4 +1,4 @@
-### Excel Custom Search
+# Excel Custom Search
 Search macro that hides non-matching rows. Once installed, the macro is loaded in the background everytime Excel is opened, allowing it to be used on any open workbook. 
 
 ### Installation
